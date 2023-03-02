@@ -1,0 +1,23 @@
+.rating-selected {
+    background-color: #262f37;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 8px;
+    color: yellow;
+}
+
+.center {
+    display: contents;
+}
+
+img {
+    margin: 10px 0 10px 0;
+}
+h3 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: #212730;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.card-component {
+    display: flex;
+    flex-direction: column;
+    align-self: start;
+    background-color: #181e27;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+h3{
+    color: white;
+    margin: 6px 0px 6px 0px;
+}
+p {
+    color: white;
+    margin: 6px 0px 6px 0px;
+}
